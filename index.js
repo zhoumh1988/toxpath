@@ -26,7 +26,7 @@ function getAttr(e) {
             }
             preElement = preElement.previousElementSibling;
         }
-        return '[' + i + ']';
+        return i === 1 ? '' : '[' + i + ']';
     }
 }
 
