@@ -11,6 +11,14 @@
     "dom",
     "node"
   ],
-  "author": "LittleStrong",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhoumh1988/toxpath"
+  },
+  "author": {
+    "name": "LittleStrong",
+    "email": "zhoumh1988@163.com",
+    "url": "https://github.com/zhoumh1988"
+  },
   "license": "ISC"
 }
