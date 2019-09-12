@@ -50,5 +50,5 @@ function getPath(elementDom, path = '') {
  * @param {HTMLElement} dom 
  */
 module.exports = function (dom) {
-    return `//${getPath(dom)}}`
+    return `//${getPath(dom)}`
 }
