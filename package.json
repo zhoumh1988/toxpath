@@ -1,0 +1,16 @@
+{
+  "name": "toxpath",
+  "version": "1.0.0",
+  "description": "Convert a Node to an XPath expression.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xpath",
+    "dom",
+    "node"
+  ],
+  "author": "LittleStrong",
+  "license": "ISC"
+}
